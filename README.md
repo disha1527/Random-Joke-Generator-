@@ -6,7 +6,6 @@ Need a good laugh? My Random Joke Generator is here to brighten your day! This s
 Instant Laughter: Click a button and get a random joke every time!
 
 API Integration: Pulls jokes from an external API for a fresh experience with each click.
-
 User-Friendly Interface: Simple and interactive design that makes it easy for anyone to use.
 
 
