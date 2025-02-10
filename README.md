@@ -3,10 +3,9 @@
 Need a good laugh? My Random Joke Generator is here to brighten your day! This simple yet fun project uses JavaScript to fetch and display random jokes from an API, making it a perfect tool for anyone in need of a quick chuckle.
 
 <h1>🎉 Key Features:</h1>
-Instant Laughter: Click a button and get a random joke every time!
-
-API Integration: Pulls jokes from an external API for a fresh experience with each click.
-User-Friendly Interface: Simple and interactive design that makes it easy for anyone to use.
+<p>Instant Laughter: Click a button and get a random joke every time!</p>
+<p>API Integration: Pulls jokes from an external API for a fresh experience with each click.</p>
+<p>User-Friendly Interface: Simple and interactive design that makes it easy for anyone to use.</p>
 
 
 
